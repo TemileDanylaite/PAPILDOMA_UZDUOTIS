@@ -8,7 +8,7 @@
 #include <algorithm>
 #include <string>
 #include <iomanip>
-#include <clocale>
+
 
 
 //Valymas
