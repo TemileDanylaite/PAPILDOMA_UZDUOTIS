@@ -26,12 +26,12 @@ Naudojami tinkami asociatyvūs konteineriai: std::map ir std::set, kurie užtikr
 
 
 #Naudotos bibliotekos:
-•	<iostream>
-•	<fstream>
-•	 <sstream>
-•	<map>
-•	<set>
-•	<regex>
-•	<vector>
-•	<algorithm>
-•	<string>
+•	`<iostream>`
+•	`<fstream>`
+•	`<sstream>`
+•	`<map>`
+•	`<set>`
+•	`<regex>`
+•	`<vector>`
+•	`<algorithm>`
+•	`<string>`
