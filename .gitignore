@@ -1,0 +1,7 @@
+# Visual Studio failai
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+# Ignoruoti kitus nereikalingus failus
+Papildom.98efce80/
+x64/

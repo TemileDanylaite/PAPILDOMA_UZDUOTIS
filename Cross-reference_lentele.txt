@@ -1,0 +1,139 @@
+Cross-reference lentele:
+Zodis                 Eiles numeriai
+a                     3 20
+amziaus              21
+apie                 14 17 22
+ar                    1  2  6  9 14 15 16
+atradimas             4  5
+atsirado             17 19 20
+auklejimo             1  7
+bei                   4  6 15 17 19
+bet                   1 23
+buti                  8 16
+buvo                 15 17 18 19 20
+dar                   4 21
+darbo                20 22
+daugiaprades          5  6
+daugiau               5 14 24
+daugintis            16
+del                  15 22
+dirbtinis            11 21
+gali                  8 16 22
+galima                2 24
+galimybes             4 21
+gaminti              19 20
+gamtiniu              1  4
+gamybos               1  6 15 19 20
+ginklu                4
+gyvenimo             15 19 20 22 23
+i                     2  4 19
+internetas            4 12 21
+ir                    1  4  5  6  7 13 14 15 16 17 18 19 20 21 22 23
+iranga                1  7
+is                    1  2  4
+istekliu              1  4
+isvyste              14 15
+itaka                16 19
+jie                  16 17
+jos                  14 15 16 17 22
+ju                    1 16
+kad                  14 15 16
+kai                   4 16 17 20
+kaip                  3  4  5 20 22 23
+kita                  8 15
+kiti                 15
+kitus                17 18
+kokybe               19 20 22
+kol                   4 16
+kompiuteriai          6 21
+komunikacijos         4  6
+kt                    6
+kurti                16 18
+laikais               4 17
+laikotarpiu          19 20
+leidzia              20 22
+maisto                4  6 17
+mes                  16
+mogaus                6
+mokslas               2 13 14
+mokslo               15 23
+mokymo                1  7
+musu                 16 23
+naudoti               4 16
+naujas                4 21
+ne                    4  5 16 23
+nuo                   4 16 17 23
+o                     4  5
+pacios               16
+pagalba               6 15
+pakeite               4 19 20
+pan                   1
+pasiekti             16 22
+pat                   1 18 20
+pavyzdziui            6 18
+pirmaprades           5
+pirmapradi            5  6
+pirmuosius            4 17
+politikos             1  7
+poreikius            14 17 23
+poveiki              16 22
+praeityje            15 22
+pramones             19 20
+prie                  5 18
+procesai              1  7 20 21
+procesas             14 19
+procesu               1 15
+produktai             5  6
+produktyviuju         2  3
+programine            1  7
+progres              15 21
+pvz                  16
+reiskia               1  2 14
+remiantis             2  6
+revoliucija          19 20
+savo                 14 17
+savoka                1  2
+seniausiu             4 17
+senoves              18
+socialine            20 22
+sporto                1  7
+statyb                6 18
+su                   15 19 21 23
+sudaro                5  6  7
+sukure                4 17
+sukurta               6 18
+sukurti               5 14
+sukurtos              6 17
+taciau                4  5 15 19 22
+tai                   5  6  8 15 16 20
+taigi                15 17
+taip                  1 18 20
+tam                  15
+tampa                 2 23
+technikos             6 15
+technologija          1  2  3  4  6 13 15 18 21
+technologijas         5  6  7 15 16
+technologijoms       14 17
+technologijos         4  5  6  8 12 16 17 18 19 21 22 23
+technologiju          5  6 15 16 19 22 23
+technologiniai       16 20
+technologinius       15 16
+teigia               15 16
+tiek                 22
+tik                   5 14 15 16 17 23
+tikslas               4 14
+ugni                  4  5
+veliau                4  5
+verslo                1  7
+vis                   4 18 21 23
+visuma                1  2
+visuomenei           15 19 22
+xxi                   3 21
+yra                   5  6 14 16 17 21
+zinias               14 15
+ziniu                 2  3 14
+zmogaus               1  5 15 16 23
+zmogus               15 17
+zmonems               4 21
+zmones                4 14 15 16 17
+zmoniu                4 17 19
