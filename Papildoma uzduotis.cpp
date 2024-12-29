@@ -11,7 +11,7 @@
 
 
 
-//Valymas
+
 std::string cleanWord(const std::string& word) {
 	std::string cleaned;
 	for (unsigned char ch : word) {
@@ -67,7 +67,7 @@ int main()
 
 	std::string word;
 
-	//Ouput words that occur more than once
+	
 	wordCountFile << "Zodziai, kurie pasikartoja daugaiu nei 1 karta:\n";
 	for (auto it = wordCount.begin(); it != wordCount.end(); ++it) {
 		const std::string& word = it->first;
@@ -78,7 +78,7 @@ int main()
 		}
 	}
 
-	//Ouput cross-reference table
+	
 	crossRefFile << "Cross-reference lentele:\n";
 	crossRefFile << std::left << std::setw(20) << "Zodis" << std::right << std::setw(17) << "Eiles numeriai\n";
 
@@ -97,7 +97,7 @@ int main()
 		}
 	}
 
-	//Output found URLs
+	
 	urlFile << "Rasti URLs:\n";
 	for (const auto& url : urls) {
 		urlFile << url << "\n";
