@@ -14,13 +14,10 @@ Kodo dalys:
 
 Pagrindinės funkcijos:
 
-•	countWords(const std::string& text):Skaičiuoja žodžių dažnį tekste ir gražina žodžius, pasikartojančius daugiau nei vieną kartą, kartu su jų skaičiumi.
+• std::map<std::string, int> wordCount: Naudojama saugoti kiekvieno žodžio pasirodymų skaičių.
+• std::map<std::string, std::set<int>> wordLines: Naudojama, kad užtikrintų unikalius eilutės numerius kiekvienam žodžiui.
+• std::regex urlRegex(R"((https?://)?(www\.)?([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})(:\d+)?(/[^\s]*)?)"): Naudojama, kad surasti atitikmenis, kurie atitinka URL struktūrą.
 
-•	generateCrossReference(const std::string& text):  Sudaro cross-reference tipo lentelę, nurodant, kuriose eilutėse paminėti pasikartojantys žodžiai.
-
-•	findURLs(const std::string& text): Naudoja reguliarias išraiškas URL adresams rasti tekste.
-
-Naudojami tinkami asociatyvūs konteineriai: std::map ir std::set, kurie užtikrina gerą veikimą.
 
 #Rezultatas : txt failuose bus išvedami pasikartojantys žodžiai, cross—reference lentelė bei URL adresai rasti tekste.
 
