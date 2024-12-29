@@ -1,26 +1,32 @@
-#Ši programa skirta patyrinėti, kaip asociatyvūs konteineriai yra efektyvesni už sekos konteinerius, atliekant tam tikras tekstines operacijas.
+#Užduotis: Žodžių pasikartojimų skaičiavimas ir URL paieška.
 
-Kodo dalys:
+##Ši programa demonstruoja, kaip asociatyvūs konteineriai (pvz., `std::map`) gali būti efektyvesni už sekos konteinerius (pvz., `std::vector`) atliekant tekstines užduotis:
+- Žodžių dažnio skaičiavimas.
+- Cross-reference tipo lentelės sudarymas.
+- URL adresų paieška tekste.
 
-1.	Žodžių dažnio skaičiavimas:Skaičiuojama, kiek kartų kiekvienas skirtingas žodis pasikartoja tekste.
-2.	Cross-reference tipo lenteles kūrimas:Sudaroma lentelė, kurioje nurodoma, kuriose teksto eilutėse paminėtas kiekvienas daugiau nei vieną kartą pasikartojantis žodis.
-3.	URL adresų suradimas:Tekste surandami visi URL adresai ir išvedami į failą.
+###Funkcijos
 
-#Norint naudotis programa, reikia atlikti šiuos veiksmus:
+1.**Žodžių dažnio skaičiavimas:**
+   Skaičiuojama, kiek kartų kiekvienas skirtingas žodis pasikartoja tekste, ignoruojant skirybos ženklus.
+   
+2.**Cross-reference tipo lentelė:**
+Sudaroma lentelė, kurioje nurodoma, kuriose teksto eilutėse paminėtas kiekvienas daugiau nei vieną kartą pasikartojantis žodis.
 
-•	Įdėti į text.txt failą norimą tekstą su nemažiau kaip 1000 žodžių bei URL adresais.
+3.**URL adresų suradimas:**
+Tekste surandami visi pilni ir sutrumpinti URL adresai ir išvedami į failą.
+
+
+##Norint naudotis programa, reikia atlikti šiuos veiksmus:
+
+•	Įdėti į text.txt failą norimą tekstą su nemažiau kaip 1000 žodžių bei URL adresais arba naudotis jau įkeltu text.txt failu.
 
 •	Paleisti kodą.
 
-Pagrindinės funkcijos:
-
-• std::map<std::string, int> wordCount: Naudojama saugoti kiekvieno žodžio pasirodymų skaičių.
-• std::map<std::string, std::set<int>> wordLines: Naudojama, kad užtikrintų unikalius eilutės numerius kiekvienam žodžiui.
-• std::regex urlRegex(R"((https?://)?(www\.)?([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})(:\d+)?(/[^\s]*)?)"): Naudojama, kad surasti atitikmenis, kurie atitinka URL struktūrą.
-
-
-#Rezultatas : txt failuose bus išvedami pasikartojantys žodžiai, cross—reference lentelė bei URL adresai rasti tekste.
-
+#Rezultatas : Programa sugeneruoja šiuos failus:
+- Pasikartojantys_zodziai.txt - Žodžiai, pasikartoję daugiau nei vieną kartą, ir jų pasirodymų skaičius.
+- Cross_reference_lentele.txt - Lentelė, nurodanti, kuriose eilutėse minimi pasikartojantys žodžiai.
+- Rasti_url_adresai.txt
 
 #Naudotos bibliotekos:
 
