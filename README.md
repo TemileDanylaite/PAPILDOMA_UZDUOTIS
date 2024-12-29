@@ -1,6 +1,6 @@
 #Užduotis: Žodžių pasikartojimų skaičiavimas ir URL paieška.
 
-##Ši programa demonstruoja, kaip asociatyvūs konteineriai (pvz., `std::map`) gali būti efektyvesni už sekos konteinerius (pvz., `std::vector`) atliekant tekstines užduotis:
+##Ši programa demonstruoja, kaip asociatyvūs konteineriai (pvz., `std::map`) gali būti efektyvesni už sekos konteinerius atliekant tekstines užduotis:
 - Žodžių dažnio skaičiavimas.
 - Cross-reference tipo lentelės sudarymas.
 - URL adresų paieška tekste.
